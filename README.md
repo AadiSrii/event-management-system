@@ -11,6 +11,10 @@ The Event Management System is a backend application built with Node.js and Expr
 - Retrieve detailed reports for events, including sessions and registered participants.
 - Generate PDF reports for events with session and participant details.
 
+## Deploy
+- Render :- https://event-management-system-1-3fnz.onrender.com
+- Versal :- https://event-management-system-cuyu.vercel.app/
+
 ## Technologies Used
 
 - **Backend**: Node.js, Express.js
